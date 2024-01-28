@@ -1,0 +1,22 @@
+canvas{
+    margin-top: 80px;
+    
+}
+body{
+    background-image: url("https://wallpapercave.com/wp/wp3597531.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     color: aliceblue;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 20%;
+    box-shadow: 5px 5px 5px aliceblue;
+}
+h1{
+    text-shadow: 5px 5px black;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+}
